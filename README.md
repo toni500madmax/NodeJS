@@ -1,3 +1,21 @@
+# 1 - 🌐 Projeto NodeJS - Corpo HTML via Requisição
+
+Este projeto é uma aplicação simples em Node.js utilizando Express, que retorna um conteúdo HTML diretamente como resposta a uma requisição HTTP.
+
+## ✨ Funcionalidades
+
+- Criação de servidor web com Node.js e Express
+- Envio de resposta HTML customizada para o navegador
+- Organização simples e clara para aprendizado ou uso como base
+- Projeto estruturado com Express
+
+## 🚀 Tecnologias Utilizadas
+
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [ejs](https://ejs.co/)
+
 # 2 - 📦 Projeto Node.js com MongoDB
 
 Este é o seu primeiro projeto utilizando **Node.js** com integração ao banco de dados **MongoDB**.
