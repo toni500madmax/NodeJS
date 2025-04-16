@@ -1,4 +1,4 @@
-# 📦 Projeto Node.js com MongoDB
+# 2 - 📦 Projeto Node.js com MongoDB
 
 Este é o seu primeiro projeto utilizando **Node.js** com integração ao banco de dados **MongoDB**.
 
